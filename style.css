@@ -1,0 +1,24 @@
+body{
+	font-family: "Open Sans";
+	margin-top: 200px;
+	text-align: center;
+	padding: 0;
+	color: white;
+	
+}
+#canvas{
+	display: block;
+	margin: 5% auto;
+	border:2px solid #fff;
+	width: 60%;
+	height: 60%;
+	background-color: #25AFF3;
+	border-radius: 5px;
+
+}
+#clock{
+font-weight: 300;
+font-size: 120px;
+
+
+}
